@@ -4,6 +4,8 @@
 
 信託法規與實務｜三色重點筆記 → 簡報（生成式AI跨校聯盟作業：建立自己的 CLAUDE.md）
 
+使用的 AI：Claude（Anthropic）Sonnet 5.5，推理強度 high
+
 - `CLAUDE.md`：專案規則檔（給 Claude 讀的工作說明）
 - `ideas/`：從筆記抽出的原始素材（ch01–ch21.md、chapters.json）
 - `slide_notes/`：簡報逐頁大綱
