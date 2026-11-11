@@ -1,4 +1,4 @@
-# trustnote
+# trustnotes
 
 信託法規與實務｜三色重點筆記 → 簡報（生成式AI跨校聯盟作業：建立自己的 CLAUDE.md）
 
