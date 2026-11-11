@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" width="880" height="420" role="img" aria-label="信託三方關係：委託人、受託人、受益人與信託監察人" xmlns:c2pa="http://c2pa.org/manifest">
+<title>信託三方關係：委託人、受託人、受益人與信託監察人</title>
+<rect width="880" height="420" rx="28" fill="#fbe9dc"/>
+<ellipse cx="440.0" cy="392" rx="400" ry="14" fill="#f1d3bd"/>
+<g transform="translate(20 118) scale(1.05)"><path d="M168 214 C 222 214, 232 160, 205 140" fill="none" stroke="#3b2f55" stroke-width="22" stroke-linecap="round"/>
+<path d="M168 214 C 222 214, 232 160, 205 140" fill="none" stroke="#f2a65a" stroke-width="15" stroke-linecap="round"/>
+<ellipse cx="120" cy="190" rx="54" ry="50" fill="#f2a65a" stroke="#3b2f55" stroke-width="3.5"/>
+<ellipse cx="120" cy="202" rx="30" ry="30" fill="#fff1e0"/>
+<ellipse cx="92" cy="236" rx="19" ry="11" fill="#f2a65a" stroke="#3b2f55" stroke-width="3.5"/>
+<path d="M86 238 v-6 M93 239 v-7 M100 238 v-6" stroke="#3b2f55" stroke-width="2" stroke-linecap="round" fill="none" opacity=".55"/>
+<ellipse cx="148" cy="236" rx="19" ry="11" fill="#f2a65a" stroke="#3b2f55" stroke-width="3.5"/>
+<path d="M142 238 v-6 M149 239 v-7 M156 238 v-6" stroke="#3b2f55" stroke-width="2" stroke-linecap="round" fill="none" opacity=".55"/>
+<polygon points="64,86 66,26 112,60" fill="#f2a65a" stroke="#3b2f55" stroke-width="3.5" stroke-linejoin="round"/>
+<polygon points="176,86 174,26 128,60" fill="#f2a65a" stroke="#3b2f55" stroke-width="3.5" stroke-linejoin="round"/>
+<polygon points="75,72 77,42 98,58" fill="#f4a6b7"/>
+<polygon points="165,72 163,42 142,58" fill="#f4a6b7"/>
+<ellipse cx="120" cy="108" rx="62" ry="52" fill="#f2a65a" stroke="#3b2f55" stroke-width="3.5"/>
+<path d="M120 58 v16 M106 61 l3 13 M134 61 l-3 13" stroke="#3b2f55" stroke-width="3" stroke-linecap="round" fill="none" opacity=".55"/>
+<ellipse cx="96" cy="108" rx="8" ry="10" fill="#2b2b3a"/>
+<circle cx="98.5" cy="104" r="3" fill="#fff"/>
+<circle cx="94" cy="112" r="1.4" fill="#fff" opacity=".8"/>
+<ellipse cx="144" cy="108" rx="8" ry="10" fill="#2b2b3a"/>
+<circle cx="146.5" cy="104" r="3" fill="#fff"/>
+<circle cx="142" cy="112" r="1.4" fill="#fff" opacity=".8"/>
+<ellipse cx="78" cy="128" rx="10" ry="6" fill="#f4a6b7" opacity=".55"/>
+<ellipse cx="162" cy="128" rx="10" ry="6" fill="#f4a6b7" opacity=".55"/>
+<polygon points="114,122 126,122 120,130" fill="#e5798f" stroke="#3b2f55" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M120 130 q0 8 -9 9 M120 130 q0 8 9 9" fill="none" stroke="#3b2f55" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M72 124 L34 117 M72 132 L34 135 M168 124 L206 117 M168 132 L206 135" stroke="#3b2f55" stroke-width="2.2" stroke-linecap="round" opacity=".7"/>
+
+<path d="M70 150 Q120 176 170 150 L168 168 Q120 192 72 168 Z" fill="#3b6fd4" stroke="#3b2f55" stroke-width="3" stroke-linejoin="round"/>
+<path d="M140 176 l12 38 l-18 5 l-8 -34 z" fill="#3b6fd4" stroke="#3b2f55" stroke-width="3" stroke-linejoin="round"/>
+<path d="M146 186 l6 -2 M148 196 l6 -2" stroke="#fff" stroke-width="2.4" stroke-linecap="round" opacity=".7"/>
+<g transform="translate(176 232)">
+  <path d="M0 0 C -22 -2 -26 -26 -12 -38 L12 -38 C 26 -26 22 -2 0 0 Z" fill="#d9b25a" stroke="#3b2f55" stroke-width="3"/>
+  <path d="M-11 -38 q11 -12 22 0" fill="#d9b25a" stroke="#3b2f55" stroke-width="3" stroke-linecap="round"/>
+  <path d="M-10 -35 h20" stroke="#3b2f55" stroke-width="3" stroke-linecap="round"/>
+  <text x="0" y="-12" font-size="19" font-weight="700" text-anchor="middle" fill="#3b2f55" font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC',sans-serif">$</text>
+</g></g>
+<g transform="translate(316 118) scale(1.05)"><path d="M168 214 C 222 214, 232 160, 205 140" fill="none" stroke="#3b2f55" stroke-width="22" stroke-linecap="round"/>
+<path d="M168 214 C 222 214, 232 160, 205 140" fill="none" stroke="#a9b4c8" stroke-width="15" stroke-linecap="round"/>
+<ellipse cx="120" cy="190" rx="54" ry="50" fill="#a9b4c8" stroke="#3b2f55" stroke-width="3.5"/>
+<ellipse cx="120" cy="202" rx="30" ry="30" fill="#eef1f7"/>
+<ellipse cx="92" cy="236" rx="19" ry="11" fill="#a9b4c8" stroke="#3b2f55" stroke-width="3.5"/>
+<path d="M86 238 v-6 M93 239 v-7 M100 238 v-6" stroke="#3b2f55" stroke-width="2" stroke-linecap="round" fill="none" opacity=".55"/>
+<ellipse cx="148" cy="236" rx="19" ry="11" fill="#a9b4c8" stroke="#3b2f55" stroke-width="3.5"/>
+<path d="M142 238 v-6 M149 239 v-7 M156 238 v-6" stroke="#3b2f55" stroke-width="2" stroke-linecap="round" fill="none" opacity=".55"/>
+<polygon points="64,86 66,26 112,60" fill="#a9b4c8" stroke="#3b2f55" stroke-width="3.5" stroke-linejoin="round"/>
+<polygon points="176,86 174,26 128,60" fill="#a9b4c8" stroke="#3b2f55" stroke-width="3.5" stroke-linejoin="round"/>
+<polygon points="75,72 77,42 98,58" fill="#f4a6b7"/>
+<polygon points="165,72 163,42 142,58" fill="#f4a6b7"/>
+<ellipse cx="120" cy="108" rx="62" ry="52" fill="#a9b4c8" stroke="#3b2f55" stroke-width="3.5"/>
+<path d="M120 58 v16 M106 61 l3 13 M134 61 l-3 13" stroke="#3b2f55" stroke-width="3" stroke-linecap="round" fill="none" opacity=".55"/>
+<ellipse cx="96" cy="108" rx="8" ry="10" fill="#2b2b3a"/>
+<circle cx="98.5" cy="104" r="3" fill="#fff"/>
+<circle cx="94" cy="112" r="1.4" fill="#fff" opacity=".8"/>
+<ellipse cx="144" cy="108" rx="8" ry="10" fill="#2b2b3a"/>
+<circle cx="146.5" cy="104" r="3" fill="#fff"/>
+<circle cx="142" cy="112" r="1.4" fill="#fff" opacity=".8"/>
+<ellipse cx="78" cy="128" rx="10" ry="6" fill="#f4a6b7" opacity=".55"/>
+<ellipse cx="162" cy="128" rx="10" ry="6" fill="#f4a6b7" opacity=".55"/>
+<polygon points="114,122 126,122 120,130" fill="#e5798f" stroke="#3b2f55" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M120 130 q0 8 -9 9 M120 130 q0 8 9 9" fill="none" stroke="#3b2f55" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M72 124 L34 117 M72 132 L34 135 M168 124 L206 117 M168 132 L206 135" stroke="#3b2f55" stroke-width="2.2" stroke-linecap="round" opacity=".7"/>
+
+<circle cx="96" cy="108" r="17" fill="#ffffff" fill-opacity=".35" stroke="#3b2f55" stroke-width="3.2"/>
+<circle cx="144" cy="108" r="17" fill="#ffffff" fill-opacity=".35" stroke="#3b2f55" stroke-width="3.2"/>
+<path d="M113 106 q7 -5 14 0" fill="none" stroke="#3b2f55" stroke-width="3.2"/>
+<path d="M79 104 L62 98 M161 104 L178 98" stroke="#3b2f55" stroke-width="3" stroke-linecap="round"/>
+<path d="M104 152 L136 152 L128 160 L112 160 Z" fill="#fff" stroke="#3b2f55" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M114 160 h12 l5 14 l-11 24 l-11 -24 z" fill="#d64545" stroke="#3b2f55" stroke-width="3" stroke-linejoin="round"/>
+<path d="M114 160 h12 l-2 8 h-8 z" fill="#b53232"/>
+<g transform="translate(176 238)">
+  <rect x="-24" y="-30" width="48" height="30" rx="6" fill="#8a5a3c" stroke="#3b2f55" stroke-width="3"/>
+  <path d="M-9 -30 v-7 q0 -4 4 -4 h10 q4 0 4 4 v7" fill="none" stroke="#3b2f55" stroke-width="3"/>
+  <rect x="-5" y="-18" width="10" height="9" rx="2" fill="#e6c36a" stroke="#3b2f55" stroke-width="2"/>
+</g></g>
+<g transform="translate(612 118) scale(1.05)"><path d="M168 214 C 222 214, 232 160, 205 140" fill="none" stroke="#3b2f55" stroke-width="22" stroke-linecap="round"/>
+<path d="M168 214 C 222 214, 232 160, 205 140" fill="none" stroke="#fff4e6" stroke-width="15" stroke-linecap="round"/>
+<ellipse cx="120" cy="190" rx="54" ry="50" fill="#fff4e6" stroke="#3b2f55" stroke-width="3.5"/>
+<ellipse cx="120" cy="202" rx="30" ry="30" fill="#ffffff"/>
+<ellipse cx="92" cy="236" rx="19" ry="11" fill="#fff4e6" stroke="#3b2f55" stroke-width="3.5"/>
+<path d="M86 238 v-6 M93 239 v-7 M100 238 v-6" stroke="#3b2f55" stroke-width="2" stroke-linecap="round" fill="none" opacity=".55"/>
+<ellipse cx="148" cy="236" rx="19" ry="11" fill="#fff4e6" stroke="#3b2f55" stroke-width="3.5"/>
+<path d="M142 238 v-6 M149 239 v-7 M156 238 v-6" stroke="#3b2f55" stroke-width="2" stroke-linecap="round" fill="none" opacity=".55"/>
+<polygon points="64,86 66,26 112,60" fill="#fff4e6" stroke="#3b2f55" stroke-width="3.5" stroke-linejoin="round"/>
+<polygon points="176,86 174,26 128,60" fill="#fff4e6" stroke="#3b2f55" stroke-width="3.5" stroke-linejoin="round"/>
+<polygon points="75,72 77,42 98,58" fill="#f4a6b7"/>
+<polygon points="165,72 163,42 142,58" fill="#f4a6b7"/>
+<ellipse cx="120" cy="108" rx="62" ry="52" fill="#fff4e6" stroke="#3b2f55" stroke-width="3.5"/>
+<ellipse cx="96" cy="108" rx="8" ry="10" fill="#2b2b3a"/>
+<circle cx="98.5" cy="104" r="3" fill="#fff"/>
+<circle cx="94" cy="112" r="1.4" fill="#fff" opacity=".8"/>
+<ellipse cx="144" cy="108" rx="8" ry="10" fill="#2b2b3a"/>
+<circle cx="146.5" cy="104" r="3" fill="#fff"/>
+<circle cx="142" cy="112" r="1.4" fill="#fff" opacity=".8"/>
+<ellipse cx="78" cy="128" rx="10" ry="6" fill="#f4a6b7" opacity=".55"/>
+<ellipse cx="162" cy="128" rx="10" ry="6" fill="#f4a6b7" opacity=".55"/>
+<polygon points="114,122 126,122 120,130" fill="#e5798f" stroke="#3b2f55" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M120 130 q0 8 -9 9 M120 130 q0 8 9 9" fill="none" stroke="#3b2f55" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M72 124 L34 117 M72 132 L34 135 M168 124 L206 117 M168 132 L206 135" stroke="#3b2f55" stroke-width="2.2" stroke-linecap="round" opacity=".7"/>
+
+<g transform="translate(86 56)">
+  <path d="M0 0 l-20 -12 v24 z M0 0 l20 -12 v24 z" fill="#2e9e6b" stroke="#3b2f55" stroke-width="3" stroke-linejoin="round"/>
+  <circle r="6" fill="#58c796" stroke="#3b2f55" stroke-width="3"/>
+</g>
+<g transform="translate(178 214) rotate(-18)">
+  <ellipse cx="0" cy="0" rx="26" ry="14" fill="#6ec6d9" stroke="#3b2f55" stroke-width="3"/>
+  <polygon points="22,0 40,-13 40,13" fill="#6ec6d9" stroke="#3b2f55" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="-14" cy="-3" r="3" fill="#3b2f55"/>
+  <path d="M-4 -9 q4 9 0 18 M6 -8 q4 8 0 16" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" opacity=".8"/>
+</g>
+<g fill="#ffd24a" stroke="#3b2f55" stroke-width="1.8" stroke-linejoin="round">
+  
+  <path d="M206 64 l3 8 l8 3 l-8 3 l-3 8 l-3 -8 l-8 -3 l8 -3 z"/>
+</g></g>
+<g transform="translate(316 -4) scale(0.52)"><path d="M168 214 C 222 214, 232 160, 205 140" fill="none" stroke="#3b2f55" stroke-width="22" stroke-linecap="round"/>
+<path d="M168 214 C 222 214, 232 160, 205 140" fill="none" stroke="#4a4560" stroke-width="15" stroke-linecap="round"/>
+<ellipse cx="120" cy="190" rx="54" ry="50" fill="#4a4560" stroke="#3b2f55" stroke-width="3.5"/>
+<ellipse cx="120" cy="202" rx="30" ry="30" fill="#ffffff"/>
+<ellipse cx="92" cy="236" rx="19" ry="11" fill="#4a4560" stroke="#3b2f55" stroke-width="3.5"/>
+<path d="M86 238 v-6 M93 239 v-7 M100 238 v-6" stroke="#3b2f55" stroke-width="2" stroke-linecap="round" fill="none" opacity=".55"/>
+<ellipse cx="148" cy="236" rx="19" ry="11" fill="#4a4560" stroke="#3b2f55" stroke-width="3.5"/>
+<path d="M142 238 v-6 M149 239 v-7 M156 238 v-6" stroke="#3b2f55" stroke-width="2" stroke-linecap="round" fill="none" opacity=".55"/>
+<polygon points="64,86 66,26 112,60" fill="#4a4560" stroke="#3b2f55" stroke-width="3.5" stroke-linejoin="round"/>
+<polygon points="176,86 174,26 128,60" fill="#4a4560" stroke="#3b2f55" stroke-width="3.5" stroke-linejoin="round"/>
+<polygon points="75,72 77,42 98,58" fill="#c58aa0"/>
+<polygon points="165,72 163,42 142,58" fill="#c58aa0"/>
+<ellipse cx="120" cy="108" rx="62" ry="52" fill="#4a4560" stroke="#3b2f55" stroke-width="3.5"/>
+<ellipse cx="96" cy="108" rx="8" ry="10" fill="#ffd24a"/>
+<circle cx="98.5" cy="104" r="3" fill="#fff"/>
+<circle cx="94" cy="112" r="1.4" fill="#fff" opacity=".8"/>
+<ellipse cx="144" cy="108" rx="8" ry="10" fill="#ffd24a"/>
+<circle cx="146.5" cy="104" r="3" fill="#fff"/>
+<circle cx="142" cy="112" r="1.4" fill="#fff" opacity=".8"/>
+<ellipse cx="78" cy="128" rx="10" ry="6" fill="#f4a6b7" opacity=".55"/>
+<ellipse cx="162" cy="128" rx="10" ry="6" fill="#f4a6b7" opacity=".55"/>
+<polygon points="114,122 126,122 120,130" fill="#e5798f" stroke="#3b2f55" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M120 130 q0 8 -9 9 M120 130 q0 8 9 9" fill="none" stroke="#3b2f55" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M72 124 L34 117 M72 132 L34 135 M168 124 L206 117 M168 132 L206 135" stroke="#3b2f55" stroke-width="2.2" stroke-linecap="round" opacity=".7"/>
+
+<path d="M120 164 l8 -2 l5 11 l-8 6 l-10 0 l-6 -6 l5 -11 z" fill="none"/>
+<circle cx="120" cy="170" r="14" fill="#2e9e6b" stroke="#3b2f55" stroke-width="3"/>
+<path d="M120 161 l3 6 l7 1 l-5 5 l1 7 l-6 -3 l-6 3 l1 -7 l-5 -5 l7 -1 z" fill="#fff" stroke="none"/>
+<g transform="translate(62 192) scale(-1 1)">
+  <path d="M14 14 L40 42" stroke="#3b2f55" stroke-width="11" stroke-linecap="round"/>
+  <path d="M14 14 L40 42" stroke="#8a5a3c" stroke-width="6" stroke-linecap="round"/>
+  <circle r="24" fill="#cfe9ff" fill-opacity=".55" stroke="#3b2f55" stroke-width="4"/>
+  <circle r="24" fill="none" stroke="#e6c36a" stroke-width="2" transform="scale(.82)"/>
+  <path d="M-12 -8 q4 -8 12 -9" stroke="#fff" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+</g></g>
+<path d="M258 250 H316" stroke="#3b6fd4" stroke-width="7" stroke-linecap="round" fill="none"/><polygon points="330,250 312,238 312,262" fill="#3b6fd4"/><text x="294.0" y="226" font-size="25" font-weight="800" text-anchor="middle" fill="#3b2f55" font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC',sans-serif">移轉財產</text>
+<path d="M556 250 H614" stroke="#2e9e6b" stroke-width="7" stroke-linecap="round" fill="none"/><polygon points="628,250 610,238 610,262" fill="#2e9e6b"/><text x="592.0" y="226" font-size="25" font-weight="800" text-anchor="middle" fill="#3b2f55" font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC',sans-serif">給付利益</text>
+<rect x="78" y="352" width="124" height="34" rx="17" fill="#3b6fd4" stroke="#3b2f55" stroke-width="3"/><text x="140" y="376" font-size="22" font-weight="800" text-anchor="middle" fill="#fff" font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC',sans-serif">委託人</text>
+<rect x="374" y="352" width="124" height="34" rx="17" fill="#d64545" stroke="#3b2f55" stroke-width="3"/><text x="436" y="376" font-size="22" font-weight="800" text-anchor="middle" fill="#fff" font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC',sans-serif">受託人</text>
+<rect x="670" y="352" width="124" height="34" rx="17" fill="#2e9e6b" stroke="#3b2f55" stroke-width="3"/><text x="732" y="376" font-size="22" font-weight="800" text-anchor="middle" fill="#fff" font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC',sans-serif">受益人</text>
+<text x="462" y="52" font-size="25" font-weight="800" fill="#3b2f55" font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC',sans-serif">信託監察人</text>
+<text x="462" y="82" font-size="19" fill="#6b6590" font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC',sans-serif">以自己名義監督，保障受益人</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkNTcxY2Y4NS1hMTQxLTRlMjctOWRkYS0wMWRjMGMzMjhjNDQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaH2k9oXoz7hKpbPRq3QxD5oAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplNzAzNzQ5ZC1kMzc0LTQ2YTEtYTc4YS01ZTUzZDRhZWZlNWRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo2t5EZmL8Jz9baZSl1rzfUwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg4wkGlwuDAPC1huK2rizFJA0PaLvn7z0RIk7g7EDDILmkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHI8sD3/7H21Hm1IMKQNRb0AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIJWC3KYHK8y31FV73PfNFdQDu5KBAZCoXHTTN6dDwMoSZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GTpPZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmQ1NzFjZjg1LWExNDEtNGUyNy05ZGRhLTAxZGMwYzMyOGM0NC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjg1ODAzMzNjLWQ3NWMtNGJlZC1iYTY2LTU1ZTU3MmU1YTUwN3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDjCQaXC4MA8LWG4rauLMUkDQ9ou+fvPREiTuDsQMMguaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggnCK441FPpY0P9Xyn+FnoHMQ3+jAEVB5r8Ra+vvviQhyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgggUns7rYCYmX/Ygp/MQegfIPv6UrRCunOT1uIbESBYmZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIh0Q/qVZsHM9rLtzZbchvVjXviQtce75l/NbRxflwltW60xW5T2s2h9Tr+1VQ2570hluZGb9xbs8VwfA/t1f+U=</c2pa:manifest></metadata></svg>
