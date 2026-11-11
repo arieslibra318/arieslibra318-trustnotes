@@ -7,6 +7,7 @@
 使用的 AI：Claude（Anthropic）Sonnet 5.5，推理強度 high
 
 - `CLAUDE.md`：專案規則檔（給 Claude 讀的工作說明）
+- `｜信託法規與實務_三色互動筆記｜.html`：原始筆記（`python tools/extract.py "｜信託法規與實務_三色互動筆記｜.html" ideas` 可重新抽出 `ideas/`）
 - `ideas/`：從筆記抽出的原始素材（ch01–ch21.md、chapters.json）
 - `slide_notes/`：簡報逐頁大綱
 - `presentation/`：`review.html`（複習版 93 頁）、`report.html`（報告版 17 頁）
